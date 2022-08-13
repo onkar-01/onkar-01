@@ -3,7 +3,7 @@
 ### <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" alt="onkar01" width="40" height="40">, I'm Onkar Vatsa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar01&label=Profile%20views&color=0e75b6&style=flat" alt="onkar01"></p>
 
-<h3 align="left">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="onkar01" width="40" height="40"> </h3>
+<h3 align="left">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="onkar01" width="70" height="40"> </h3>
 <p align="center" >
 <a href="https://twitter.com/OMVATSA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="OMVATSA1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/onkar-vatsa-2478b5212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkar-vatsa-2478b5212" height="30" width="40" /></a>
