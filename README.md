@@ -8,6 +8,7 @@
 <a href="https://twitter.com/OMVATSA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="OMVATSA1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/onkar-vatsa-2478b5212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkar-vatsa-2478b5212" height="30" width="40" /></a>
 <a href="https://www.instagram.com/om_._.vatsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om_._.vatsa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/om_._.vatsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="om_._.vatsa" height="30" width="40" /></a>
 </P>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
