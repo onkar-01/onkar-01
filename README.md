@@ -1,19 +1,5 @@
-### Hi there 👋
 
-<!--
-**onkar-01/onkar-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
 ### <h1 align="center"> Hi 👋, I'm Onkar Vatsa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar01&label=Profile%20views&color=0e75b6&style=flat" alt="onkar01"></p>
 
@@ -30,7 +16,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar01&show_icons=true&theme=dark&background=0d1117&locale=en&&text_color=ffffff&&layout=compact" alt="onkar01" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onkar01&theme=dark&background=0d1117&show_icons=true&locale=en" alt="onkar01" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-01&theme=dark" alt="onkar01" /></p>
 #### Thanks for watching my profile! Have a nice day!
