@@ -16,8 +16,8 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 
-<p align="left" size="400px" >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=onkar-01&theme=dark&background=0d1117&show_icons=true&locale=en" alt="onkar01" /></p>
+<p >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=onkar-01&theme=dark&background=0d1117&show_icons=true&locale=en" alt="onkar01" /></p>
 
-<p align="right" size="400px" ><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-01&theme=dark" alt="onkar01" /></p>
-<p align="center" > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar-01&show_icons=true&theme=dark&background=0d1117&locale=en&&text_color=ffffff&&layout=compact" alt="onkar01" /></p>
+<p ><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-01&theme=dark" alt="onkar01" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar-01&show_icons=true&theme=dark&background=0d1117&locale=en&&text_color=ffffff&&layout=compact" alt="onkar01" /></p>
 <h6 align="center">Thanks for watching my profile! Have a nice day!</h6>
