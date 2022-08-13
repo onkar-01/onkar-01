@@ -18,7 +18,7 @@
 
 
 <p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onkar01&theme=dark&background=0d1117&show_icons=true&locale=en" alt="onkar01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onkarvatsa&theme=dark&background=0d1117&show_icons=true&locale=en" alt="onkar01" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-01&theme=dark" alt="onkar01" /></p>
 </p>
 #### Thanks for watching my profile! Have a nice day!
