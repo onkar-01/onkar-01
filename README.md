@@ -1,7 +1,7 @@
 
 
 ### <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" alt="onkar01" width="40" height="40">, I'm Onkar Vatsa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar01&label=Profile%20views&color=0e75b6&style=flat" alt="onkar01"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-01&label=Profile%20views&color=0e75b6&style=flat" alt="onkar01"></p>
 
 <h3 align="left">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="onkar01" width="70" height="40"> </h3>
 <p align="center" >
