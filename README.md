@@ -19,4 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar-01&show_icons=true&theme=dark&background=0d1117&locale=en&&text_color=ffffff&&layout=compact" alt="onkar01" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onkar-01&theme=dark&background=0d1117&show_icons=true&locale=en" alt="onkar01" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-01&theme=dark" alt="onkar01" /></p>
-#### Thanks for watching my profile! Have a nice day!
+<h6 align="center">Thanks for watching my profile! Have a nice day!</h6>
